@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.mb {
+    margin-bottom: 60rem;
+}
+
+
+
+/* NAVIGATION */
+header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.navbar {
+    box-shadow: 0 2px 10px rgba(128, 128, 128, 0.247);
+}
+.navbar-nav i.fas {
+    margin: 0 10px;
+    color: #4d4e4e;
+}
+
+/* HOME */
+.home {
+    background: url(./images/back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.home-content {
+    padding: 7.5rem 0;
+}
+.home-content h1 {
+    font-size: 50px;
+    font-weight: 900;
+}
+.home-content span {
+    color: #f88e50;
+}
+.home-content p {
+    margin: .5rem 0;
+}
+.home-content button {
+    margin-top: .8rem;
+}
+
+/* BRAND */
+
+
